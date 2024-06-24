@@ -1,0 +1,423 @@
+﻿AJUA
+
+
+NPS Industry Benchmarks Q2 2023 
+April 2023 – June 2023
+________________
+
+
+Table of Contents
+
+
+- Background - 3
+- Objectives - 4
+- Methodology - 5
+- Telcos - 7
+- Mobile Money Lenders - 10
+- Food & Beverage - 15
+- Online Food Delivery Platforms - 19
+- Retail/Modern Trade - 21
+- Online Delivery Platforms - 25
+- Pharmacies - 27
+- Energy - 31
+- Banking - 37
+- Insurance - 41
+- Healthcare - 44
+________________
+
+
+A remarkable customer experience is critical to the sustained growth of any business. A positive customer experience promotes loyalty, helps businesses retain customers, and encourages brand advocacy.
+Today, customers have the power, not the sellers. Who gave them this power? Us — with help from the world wide web. The present customer has a plethora of options to choose from at their fingertips, and the resources necessary to educate themselves and make purchases on their own.
+This is why it’s so important to provide a remarkable customer experience and make them want to continue doing business with you — customers are the best resource for growing your brand awareness. It is therefore imperative that businesses measure their customer experience to determine what they are doing well and where there’s room for improvement!
+The NPS( Net Promoter Score) is one metric that businesses need to use to measure and track customer loyalty to help them scale. Besides measuring customer loyalty, Bain and Company research shows that NPS scores predicted between 20% and 60% of revenue or market share trends, depending on the company.
+NPS scores determine segmenting between poor and positive feedback. It measures customer perception based on one simple question: How likely are you to recommend [Organization X/Product Y/Service Z] to a friend or colleague?
+Respondents give a rating between 0 (not at all likely) and 10 (extremely likely) and, depending on their response, customers fall into one of these three categories to establish an NPS score:
+◊ Promoters respond with a score of 9 or 10 and are typically loyal and enthusiastic customers.
+◊ Passives respond with a score of 7 or 8. They are satisfied with your service but not happy enough to be considered promoters.
+◊ Detractors respond with a score of 0 to 6. These are unhappy customers who are unlikely to buy from you again, and may even discourage others from buying from you.
+It’s simple to calculate your final NPS score – just subtract the percentage of Detractors from the percentage of Promoters.
+For example, if 10% of respondents are Detractors, 20% are Passives and 70% are Promoters, your NPS score would be 70-10 = 60.
+◊ Detractors (score 0-6) are unhappy customers who can damage your brand and impede growth through negative word-of-mouth.
+◊ Passives (score 7-8) are satisfied but unenthusiastic customers who are vulnerable to competitive offerings.
+◊ Promoters (score 9-10) are loyal enthusiasts who will keep buying and fuel growth by referring others.
+Positive customer experience is essential for achieving customer satisfaction, word-of-mouth communications, loyalty, and competitive advantage across the globe.
+________________
+
+
+Besides measuring customer loyalty, Bain and Company research shows that NPS scores predict between 20% and 60% of revenue or market share trends, depending on the company. Additionally, to
+be able to measure the effectiveness of interactions between the business and its customers at each touch point requires a measure that is simple to use and communicate to a variety of stakeholders, ranging from frontline staff to company directors and shareholders. NPS provides both rigor and simplicity.
+Additionally Net Promoter research by NICE Satmetrix, the co-developer of Net Promoter, shows that companies with scores higher than their competitors grow faster and are more successful.
+Ajua, in addition to providing a platform for integrated customer experience and loyalty, provides tools to measure and track NPS at each customer touch point. Ajua also aims at providing industry and top brand Net Promoter Scores to help businesses make comparisons and set improvement goals.
+
+
+IS GREAT CUSTOMER SERVICE REALLY WORTH THE EFFORT?
+
+
+The Rewards Of Great Service
+81% of companies with strong capabilities and competencies for delivering an excellent customer experience are outperforming their competition.
+
+
+The High Cost Of Bad Service
+Our research also shows that 91% of customers will not do business with you a second time if you botch the first encounter.
+
+
+Objectives
+To find out the factors driving customer experience in the selected industries
+
+
+To establish the NPS benchmarks for various industries in Quarter 1, 2023 and to compare the performance with that of previous periods
+
+
+To identify the upcoming trends in specific industries and their impact
+Identify the best performing companies within those industries in Quarter 1, 2023
+
+
+Identify the best performing companies within those industries in Quarter 1,
+2023
+________________
+
+
+Methodology
+1,000 respondents for every industry drawn
+from Ajua’s audience of 250,000 – 4% Margin of Error at 95% confidence interval. Each sample was representative of the Kenyan general population in terms of age, gender, region and social economic class.
+We survey nine industry sectors listed below:
+• Telco
+• Energy
+• Banking and Microfinance
+• Insurance (Health, Motor, Life, General)
+• Mobile Money Lenders
+• Health care
+• Retail/ Modern Trade
+• Online Shopping Platforms
+• Food and Beverage
+• Online food Delivery Platforms
+• Pharmacies
+
+
+The Brand level NPS is only reported for brands with a significant market share.
+Where market share information is not available, reported brands are only those that had a significant level of response from the sample (n>50).
+
+
+KEY QUESTIONS
+• What is happening in these industries?
+• Who are the industry leaders?
+• What do customers consider most
+when settling on a brand or a service provider?
+
+
+# page_5_table_1 = 2022/23 NPS benchmark trends by industry
+page_5_table_1 = {
+    "Industry": [
+        "Energy",
+        "Retail/Modern trade",
+        "Food & Beverage",
+        "TELCO",
+        "Banking",
+        "Pharmacies",
+        "Insurance",
+        "Mobile money lenders",
+        "Healthcare",
+    ],
+    "Q2'22": [32, 37, 25, 29, 33, 34, 16, 11, 9],
+    "Q3'22": [40, 37, 34, 32, 32, 31, 13, 7, 6],
+    "Q4'22": [35, 30, 25, 28, 29, 33, 9, 12, 10],
+    "Q1'23": [40, 39, 30, 28, 37, 35, 22, 23, 19],
+    "Q2'23": [33, 33, 22, 24, 31, 38, 22, 14, 20],
+}
+________________
+
+
+2023 Q2 NPS BENCHMARK BY INDUSTRY
+The Pharmacy Industry demonstrated strong
+performance in the second quarter of 2023, achieving
+an impressive Overall Net Promoter Score (NPS) of
+38. Similarly, the Energy and Retail Trade sectors also
+excelled with NPS scores of 33 each.
+This benchmark report provides a comprehensive
+analysis of the reasons behind these ratings across all
+sections/industries.
+
+
+# page_6_table_2 = 2023 Q2 NPS BENCHMARK BY INDUSTRY
+page_6_table_2  = {
+    "Industry": [
+        "Energy",
+        "Retail/Modern trade",
+        "Food & Beverage",
+        "TELCO",
+        "Banking",
+        "Pharmacies",
+        "Insurance",
+        "Mobile money lenders",
+        "Healthcare",
+    ],
+    "Q2'23": [33, 33, 22, 24, 31, 38, 22, 14, 20],
+}
+________________
+
+
+Telcos
+________________
+
+
+Industry Overview
+
+
+The first quarter of 2023 saw Kenyan telecoms operator Safaricom increase coverage of its 5G networks to 28 towns across 21 counties, enabling mobile customers to access higher data speeds while also extending availability for home and business customers. Safaricom launched 5G services for home and business customers in October 2022 and since then, coverage has increased from 11 towns to 28 spread across 21 counties, including Nairobi, Kiambu, Mombasa, Kisumu, Uasin Gishu, Nakuru, Garissa, Kajiado, Kisii, Machakos, Kakamega, Kilifi, Siaya, Kericho, Kwale, Laikipia, Marsabit, Meru, Narok, Nyeri and Vihiga. 
+
+
+Airtel Kenya, the country’s second largest mobile network operator, announced the launch of VoLTE services. The operator states that the new offering provides customers with ‘crystal clear’ HD voice quality, faster call connectivity and reduced background noise, while it also allows users to talk and surf the internet on the 4G network simultaneously and without interruption. VoLTE is activated free of charge for customers with a compatible handset and a 4G SIM card. Airtel Africa is ready to list its Kenyan unit on the Nairobi Securities Exchange (NSE). The operator also revealed that it is planning to launch its 5G network in July of 2023. 
+
+
+US software giant Microsoft announced a series of new and expanded partnerships across Latin America and Africa as part of its Airband initiative, which aims to improve connectivity to underserved and unserved communities. Through the following programmes, Microsoft said it will help provide internet access to nearly 40 million people across nine countries: Brazil, Chile, Colombia, Guatemala, Kenya, Tanzania, Uganda, Nigeria and Cote d’Ivoire. They have also been building on their existing partnership with Kenyan service provider Mawingu, with which it has worked since 2014. Kenyan ISP Mawingu also announced that it has connected an additional 2,000 households and businesses across seven new counties since February, bringing its total broadband network coverage to 22 counties. The new areas covered in the last three months include Kilifi, Kwale, Uasin Gishu, Bungoma, Kakamega, Kisii and Migori.
+
+
+
+
+# page_8_table_1 = NPS trends for telecom companies
+page_8_table_1 = {
+    "Company": ["Telkom", "Airtel", "Safaricom"],
+    "Q3'22": [25, 10, 36],
+    "Q4'22": [23, 10, 31],
+    "Q1'23": [20, 25, 30],
+    "Q2'23": [-11, 14, 26]
+}
+________________
+
+
+WHO ARE THE INDUSTRY LEADERS AMONG THE TELCOS?
+
+
+Safaricom was rated by Kenyans as the best telco in Q2 2023 in customer experience with an NPS of 26. Safaricom users highly recommended the efficiency of the network. Users found Safaricom to be very efficient, offering a strong and reliable network with high-speed internet. The network coverage was widely available, even in remote areas, making it convenient for users across the country. Comprehensive range of services including M-PESA, talk time offers and mobile banking options was also highly praised. Users also enjoyed Safaricom’s customer service. They expressed satisfaction with how their inquiries and concerns were handled, emphasizing the prompt and efficient assistance they received. Sample comments: “Good network coverage. Have good customer service. Offer several services like mobile banking.” “Strong network, excellent speed and good customer service.” “It has convenient money transfer and their agents are all over the country with a stable network.” “It’s transparent, has a good network system, great data deals and minutes offers and has good customer care service if you are in need of any assistance.” 
+Airtel Kenya had an NPS of 14 in Q2 2023. Customers appreciated Airtel’s competitive offerings in terms of data and call packages. The availability of attractive MB offers and call deals has made Airtel a favorable choice among customers. Customers acknowledged that Airtel’s network coverage has greatly improved over the years. While there may have been initial issues, participants noted that the connectivity has become more reliable, contributing to their positive recommendation. Customers expressed satisfaction with Airtel’s credit usage system. They found it convenient and favorable, enabling them to make the most out of their available credit. Sample comments: “Initially, network coverage for Airtel was poor but the connectivity for the past few years has greatly improved.” “I am impressed with their offers, call rates are fair compared to other telcos and money withdrawal charges are low, just to mention a few.” “It’s cheap in calls across networks and has friendly data packages.” “Their browsing rates are convenient.”
+
+
+# page_9_table_1 = Key themes driving the telecommunications sector
+page_9_table_1 = {
+    "Theme": [
+        "Rates",
+        "Network",
+        "Products & offers",
+        "Convenience",
+        "Internet/Bundles",
+        "Customer service",
+        "Availability",
+        "Transparency",
+        "Mobile money",
+        "Speed/Efficiency",
+        "Reliability"
+    ],
+    "Percentage": [23, 18, 18, 8, 7, 7, 6, 5, 3, 3, 1]
+}
+
+
+Customers in the telecommunications sector have a strong interest in rates, network stability and products and offers. Additionally, they value convenience, internet/bundles,and excellent customer service.
+________________
+
+
+
+
+Mobile Money Lenders
+________________
+
+
+Industry Overview
+Q2 2023 saw changes in various aspects of the mobile money lenders platforms. It was characterized by changes in policies for lenders as well as increases in Central Bank Rates (CBR). Following the move by Google put and the new policy requiring digital lenders in Kenya to submit proof of license to operate in Kenya, the apps on the platform were not allowed to access users’ contacts, photographs, videos, call records, and location. This comes after complaints from users against the predatory lending apps. Therefore, only providers with licenses from the country’s pinnacle bank, the Central Bank of Kenya (CBK), will be listed on Play Store, Google’s digital distribution service. 
+
+
+The Central Bank of Kenya (CBK) raised the CBR rate from 8.75% to 9.5% resulting in lenders such as M-Shwari and other bank offered loans from banks such as NCBA, Family Bank, and Stanbic. This is the fourth time the CBK has raised the CBR within a year, and lenders have been quick to react whenever new rates are announced by raising borrowing costs for their borrowers.
+
+
+MOBILE MONEY LENDERS INSIGHTS 
+When asked about their willingness to use a loan product offered by the government, 79% of the respondents expressed their openness to considering such an option. On the other hand, 21% of the respondents stated that they would not consider using a government loan product. 
+
+
+And we asked those who have used the Hustler Fund, and 81% (constant from Q1 2023) of those who said ‘Yes’ to taking a loan product from the government are using Hustler Fund. They appreciate the eligibility criteria, which allows any citizen above 18 years who has used the line for more than three months to qualify for the loan. Many borrowers find it convenient and helpful for covering their bills and expenses when they have limited funds. The low interest rates, respect for confidential data, and absence of harassment when requesting loan repayment are seen as advantages of the Hustler Fund. Users also commend its efficiency, availability, and the positive impact it has on their businesses. Some borrowers have expressed their desire for the principal amount to increase over time, as they believe it would better reflect their borrowing history and commitment. 
+
+
+19% (constant from Q1 2023) are not. Those who didn’t did not because they don’t know the exact interest rates charged and found the initial loan amount to be too low. Others mentioned issues with the registration process, such as their ID number being registered by someone else or facing difficulties in borrowing due to ID misuse. There are also fears of potential harassment by the government for small loan amounts and dissatisfaction with the practice of withholding a portion of the borrowed money.
+________________
+
+
+Some individuals have experienced unauthorized use of their ID details for loan purposes. Complaints were also raised about the loan limit being insufficient and the short grace period provided for repayment. Some respondents mentioned being financially stable at the time of the loan product’s launch or not having a current need for it. Additionally, a few individuals tried to borrow but faced difficulties or were directed to try again later, and some already had existing loans from other mobile lenders. 
+INDUSTRY LEADERS IN MOBILE MONEY LENDERS 
+The overall NPS for the mobile money lenders for Q2 was 14, a drop from 23 in Q1 of 2022. 
+
+
+Interest rates, data privacy, flexibility of repayment, loan limit, security, and legitimacy of the lender to avoid scams are the consideration requirements sought by borrowers before getting a loan. 
+
+
+Hustler Fund: Which had an NPS 14, and it was the second most used lender by the respondents we engaged. Many borrowers were happy with low interest rates and convenient repayment periods. They also appreciated fast application responses, extensions for loan repayment, reliability, instant services, and accessibility. “Their rate of interest is so low. Though I didn’t give them a 10 as the loan should be repayable at least a month. Two weeks is so short.” “It helps when you are done on stock and makes your business run smoothly. When you pay, your limit increases.” “Very clear terms, enough payment period, and low interest.” “This lender provides affordable loan services and is the best and recognized by everyone.” “It’s processed fast and is available just by the providence of your National ID number and M-PESA PIN.” 
+
+
+# page_12_table_1 = NPS Mobile Money Lenders
+page_12_table_1 = {
+    "Lender": ["KCB M-PESA", "Tala", "M-Shwari", "Branch", "Hustler", "Other"],
+    "Q3'22": [23, 16, 14, 10, 0, -7],
+    "Q4'22": [7, 20, 9, 5, 18, 16],
+    "Q1'23": [21, 13, 13, 9, 23, 16],
+    "Q2'23": [12, 12, 8, 6, 14, 22]
+}
+
+
+M-Shwari had an NPS of 8, and the happy borrowers were happy with: fair interest rates and considerate repayment periods, reliability and promptness in providing assistance, and reasonable interest rates. Some, however, noted slightly high interest rates, and sample comments include: “The interest rate is fair, and the repayment period is considerable – 30 days to be precise.” “Low interest rate and 30 days of repayment.” “The more you do M-PESA services, the higher your limit grows.” “M-Shwari is reliable and always ready to help wherever you are in need of cash. They also give a maximum time before asking for payment.” “M-Shwari lends money on time, and their loan attracts an interest
+________________
+rate of 9.0% which is quite reasonable. Also, when you pay within ten days, they return 20% of the interest charged on the loan.” ”Mobile money lenders are good. They save you during a time when you don’t have money, and you have an emergency.” 
+KCB-MPESA: Respondents were happy with flexible loan limits based on timely payments, favorable interest rates, a reasonable repayment period, and excellent customer service. Loan disbursement is immediate, and the interest rates are low compared to other lenders. It is possible to negotiate repayment plans. Sample comments include: “KCB-MPESA offers the best services, and the limit depends on payments. Their interest is favorable. The more you borrow and pay, the limit increases.” “Their rates are affordable, and they give a reasonable amount of time to pay back the loan.” “Reasonable interest, flexible payment period, and excellent customer understanding.” “You get their loan immediately and also the interest rate is low as compared to other lenders.” 
+Tala had an NPS of 12, and respondents were satisfied with good service, reliability, and availability of services, lower repayment amounts for early payments, good loan limits and fast loan disbursement, affordable interest rates, and sufficient repayment time. Sample comments include: “Good service.” “Readily available and more effective.” “Their loan payment pending period is unique and gives a person time to pay slowly.” “They always help me much. I rank Tala ahead. The reason is, with Tala, the earlier I pay, the less I pay, unlike Branch, where the interest is fixed. On flexibility, Tala wins.” “Affordable interest rates, enough time to repay, a loan is given with no deduction.” “No delay when it comes to giving loans. Not too much interest rate and time duration is fine.” 
+Other key players in the industry are Timiza, Branch, and Okash 
+Contributors To Negative Customer Experiences in the Mobile Money Lenders Industry For Q2, many borrowers expressed dissatisfaction with various aspects of the service, including low loan limits, limited loan increase, short repayment periods, and high interest rates. Some borrowers also mention issues with customer service, privacy concerns, and difficulties in loan recovery. The negative experiences outweigh the positive ones, suggesting that there is room for improvement in the services provided by mobile money lenders. These negative experiences highlight the need for lenders to address issues such as loan limits, interest rates, repayment periods, and customer support to enhance customer satisfaction and trust in their services. Sample comments include: “Interest rate is very low. But the limit increase is almost non-existent.” “The loan does not increase in a steady way keeping in consideration the cost of living is so high.” “I don’t believe in mobile loans as a tool for growing business, but they are useful in case of emergency.” “Lends low amount, and also requires mandatory savings.” “Poor personal relationship. Poor credit recovery methods.” “Higher interest charged within a short period.” “Their interest rates are high (almost 10% per month). They need to reduce it to anywhere below 7%. The repayment period should also be increased to at least 90 days (3 months).” 
+BORROWING HABITS 
+Kenyans’ borrowing habits in Q2 were as follows: 26.7% of respondents borrowed more in Q2 2023. They borrowed more because of the intent to remedy financial challenges caused by inflation, high cost of living, and economic hardships. They mentioned that borrowing helps them meet basic needs, invest in business, and bridge financial gaps. Repaying loans on time often leads to increased borrowing limits.
+________________
+
+
+The borrowers highlight the tough economic conditions, increased expenses, and insufficient income as reasons for borrowing. They also mentioned the importance of timely repayments in order to access higher loan limits.
+
+
+No change: 26.7%
+Borrow less: 46%
+Borrow more: 27.3%
+
+
+The percentage of respondents who borrowed less in Q2 increased by four percentage points to 46% in Q2 2023. The borrowers reduced their borrowing habits due to the newfound understanding of the importance of living within their means and developing a disciplined approach to managing their finances, employment and felt that borrowing was unnecessary at the moment, credit limits were reduced or high interest rates, decrease in their credit limits due to payment delays, and alternative income sources and side hustles. 
+
+
+26.7% of respondents did not change their borrowing habits. They maintained their habits because they borrowed only when necessary and when confident in their ability to repay the loan. Concerns about high interest rates and the desire to avoid increasing their debt burden influenced their borrowing decisions. They borrowed according to their current business status and financial needs, ensuring that they borrow an amount that aligns with their expenses
+
+
+WHAT ARE THE MOST IMPACTFUL DETERMINANTS FOR CUSTOMER EXPERIENCE AMONG MOBILE MONEY LENDERS? 
+Interest rates continue to be the main factor driving borrowing from mobile money lenders, consistent with previous trends. Additionally, borrowers also consider factors such as loan terms and conditions, loan limits, payment periods, convenience, and accessibility when choosing these loans.
+
+
+# page_14_table_1 = Factors driving borrowing from mobile money lenders
+page_14_table_1 = {
+    "Factor": [
+        "Interest rates",
+        "Terms & Conditions",
+        "Loan limit",
+        "Payment period",
+        "Convenience",
+        "Acccessibility",
+        "Customer service",
+        "Flexibility",
+        "Reliability",
+        "Efficiency",
+        "Harassment"
+    ],
+    "Percentage": [38, 17, 14, 10, 8, 3, 3, 3, 3, 1, 0]
+}
+________________
+
+
+Food and Beverage
+________________
+
+
+Industry Outlook
+
+
+WHAT HAPPENED IN Q2, 2023? 
+As noted in Q1 2023, the Tiktok trend of trying out restaurants in Kenya continues in popularity among the millennials as well as Gen Z. These restaurants, popularly known as ‘hidden gems,’ have arisen, and Kenyans are more interested in trying them out and sharing. The short video platform has provided a unique opportunity for people to showcase their culinary experiences to a wider audience. The food and beverage industry in Kenya showcases a diverse culture through food, and it has now become a norm for the youth to experience and share their dining experiences on the app. 
+
+
+The trend has effectively prompted food establishments to up their game by improving their menus, services, and ambiance to cater to the contemporary dining experience. As Kenyans embrace the digital era, restaurateurs have now joined the TikTok trend and are showcasing their culinary dexterity to this online audience. This new marketing strategy has provided a unique opportunity for restaurants and the entire food industry in Kenya. 
+
+
+In Kenya, Tiktokers have been sharing their experiences trying out restaurants in creative ways. They showcase their choice of restaurant, the ambiance, the menu, and the food. 
+
+
+TikTokers such as @Indianting123 and @foodstakenya have been doing the trending challenge of visiting popular Nairobi restaurants and trying out their different dishes. Their videos are fun and relatable and have gained a large following. There are others also sharing their restaurant experiences in a unique way. Some may focus on the aesthetics of the restaurant: the interior decor, the lighting, and the presentation of food, all while sampling dishes from different restaurants around town. 
+
+
+TikTok has therefore provided a platform for restaurants to showcase their dishes and also attract a large following who turn into customers, thus increasing their revenue. 
+
+
+The food and beverage industry had an NPS of 22 in Q2, a decline of 3 from Q1 of 2023.
+
+
+# page_16_table_1 = NPS for Food and Beverage Industry
+page_16_table_1 = {
+    "Restaurant": [
+        "Chicken Inn",
+        "Java House",
+        "KFC",
+        "CJ's Restaurant",
+        "Other restaurant"
+    ],
+    "Q3'22": [37, 39, 39, 48, 17],
+    "Q4'22": [32, 31, 35, 25, 14],
+    "Q1'23": [31, 28, 39, 23, 19],
+    "Q2'23": [35, 26, 35, 21, 13]
+}
+________________
+
+
+When choosing a food/beverage outlet, the most important qualities and considerations mentioned by customers varied. However, there were recurring themes that emerged from their responses: 
+Customer service: The quality of customer service provided by an outlet is highly valued. Customers appreciate friendly and welcoming staff who provides excellent service. Environmental factors: Factors such as spaciousness, ventilation, and ambiance of the outlet were mentioned as secondary considerations, enhancing the overall dining experience. 
+Menu variety and dietary preferences: Customers considered the range of food/beverage options available, with some focusing on outlets that offered specific dietary preferences or catered to their desired meal choices. 
+Hygiene and cleanliness: The level of hygiene and cleanliness observed at the outlet played a significant role in the decision-making process. Customers preferred outlets that maintained high standards of cleanliness and food hygiene. 
+Price and affordability: The cost of food/beverages is an important factor for customers. Customers considered outlets that offered affordable prices and good value for money. I
+n summary, customers consider a combination of factors when choosing a food/beverage outlet, including customer service, hygiene, affordability, quality of food/beverages, availability, and recommendations. The overall dining experience, including factors such as reputation, dietary preferences, and environmental factors, also plays a role in customers’ decision-making process. 
+WHO ARE THE INDUSTRY LEADERS AMONG THE FOOD & BEVERAGE INDUSTRY KFC had an NPS of 35 in Q2 2023. Customers consistently praised KFC for their exceptional customer service, top-notch food quality, and quick service. The flavors of the food were described as exquisite and enjoyable, and the prices as affordable. Customers appreciated the cleanliness, hygiene, and well-managed operations at KFC outlets. Overall, KFC was recognized for providing high-quality services and delicious food, with a strong emphasis on customer satisfaction. Sample comments: “Wueee, the flavorful and crispy fried chicken – I just loved it and also loved KFC for its fast food option.” “They served me well. The food was delicious, and I really enjoyed.” “They have good services, and their products are affordable compared to the others.” “The food is delicious. The cost is favorable. The service providers are friendly and professional.” “The food there is delicious, and the environment is cool.” 
+Chicken Inn had an NPS of 35 in Q2, an increase of four from Q1 of 2023. Customers praised Chicken Inn for their superb services and good food. The environment is hygienic, and the staff is organized and disciplined, providing high-quality service. The food is described as delicious, and the prices are affordable. Customers appreciate the hospitality and presentation of the food. The customer service is excellent, and the overall experience at Chicken Inn is highly satisfying. The cleanliness and reliability of the outlet are also commended. In summary, customers value the quality of the food and the excellent service provided by Chicken Inn. Sample comments: “Their services were absolutely excellent. And the food was delicious.” “Well organized and serve the customers in a period of time.” “The food is delicious, and the waiters are so friendly.” “The reception was good, and also the cool environment.” “There was a high level of hospitality, nice chicken was served, and they offer nice food at an affordable price.”
+
+
+________________
+
+
+“The environment is very hygienic, attendants are very organized and disciplined, and the service provided is of high quality.” 
+Java House Kenya had an NPS of 26 in Q2 2023. Customers expressed their satisfaction with the diligent service they received at Java. The service is described as quick and meeting the standards. Their coffee is highly praised, and the service is timely. The reception and quality of service are described as perfect. The atmosphere at Java is praised for its serene environment, interior decor, and background music. The cleanliness of the outlet is also commended. Sample comments: “I was served diligently without any complaint.” “Good customer service and good choice of environments for their business set up.” “The atmosphere at Java is serene with all the interior decor and the background music. The service is just superb.” “Perfect and timely service as well as delicious meals.” 
+
+
+WHAT ARE THE MAIN DRIVERS OF CUSTOMER EXPERIENCE IN F&B? 
+Customer service, food and drink quality, and the ambiance of the outlet continue to be the primary factors influencing the customer experience in food outlets, consistent with previous quarters.
+
+
+# page_18_table_1 = Main Drivers Of Customer Experience In Food and Beverage (F&B)
+page_18_table_1 = {
+    "Driver": [
+        "Customer service",
+        "Food & drinks quality",
+        "Environment & ambiance",
+        "Speed/Efficiency",
+        "Reliability",
+        "Convenience",
+        "Price",
+        "Availability",
+        "Hygiene",
+        "Staff",
+        "Accessibility"
+    ],
+    "Percentage": [30, 20, 19, 8, 7, 7, 3, 3, 2, 1, 1]
+}
+________________
+
+
+Online Food Delivery Platforms
+________________
+
+
+The overall NPS for online delivery services was 23 in Q2, a decline of 5 from Q1 of 2023. We received mixed feedback regarding online food delivery platforms, with a combination of positive and negative comments. Customers appreciate the safety and speed of delivery, as well as the accessibility and reliability of the service. Timely delivery and well-packaged food were mentioned as positive aspects. However, there were also mentions of poor customer service, delays, and occasional issues with the delivery process. Some customers expressed uncertainty or lack of knowledge about certain aspects of the service. Overall, there is a recognition of the convenience and efficiency of online food delivery, but improvements in certain areas, such as customer service and timeliness, are desired. 
+
+
+Sample Comments From Industry Leaders’ Customers 
+Glovo: “The service is great, and also, delivery was fast and perfect.” “My order arrived, though sometimes it may take longer.” “Reliability. Accessibility. No delay while doing delivery. Affordable prices.” “Quite fast delivery. Friendly customer service. Food often arrives cold, though.” “Quick response. Affordable. Good packaging and readily available.” “Speed. Good communication. Safe handling and professional conduct.” 
+Jumia: “Delivery on time. Good security for your food. Also, they do phone calls to alert you on time.” “The food was up to standard, and it was delivered at the appropriate time.” “Drivers are very professional, but sometimes food comes late with apologies.” “Goods are safe on distribution process and are also being delivered while safe.” “They offer the best and quality products.” 
+Uber Eats: “They are the best when it comes to delivery, but sometimes they are all unavailable, ending in cancellation of orders.” “There was a little bit of delay, but the food was yummy.” “Too slow and unnecessarily expensive.” “Their customer service is of great quality. The delivery was done on time.”
+
+
+y# page_20_table_1 = NPS for online delivery services
+page_20_table_1 = {
+    "Service": [
+        "Bolt Food",
+        "Glovo",
+        "Jumia Food",
+        "Uber Eats",
+        "Other"
+    ],
+    "Q3'22": [36, 29, 27, 22, 20],
+    "Q4'22": [44, 33, 24, 7, 14],
+    "Q1'23": [36, 34, 29, 21, 19],
+    "Q2'23": [47, 30, 34, -15, 39]
+}
