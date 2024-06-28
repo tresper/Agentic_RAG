@@ -8,3 +8,6 @@
 * `docker compose up --build` - rebuild images and start all services (useful after making changes in the code)
 * `docker compose start` - start containers
 * `docker compose stop` - stop container without removing them
+
+### Application UI URL
+http://localhost:8501
