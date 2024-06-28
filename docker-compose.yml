@@ -1,0 +1,40 @@
+services:
+  postgres:
+    image: pgvector/pgvector:pg16
+    container_name: postgres-pgvector
+    environment:
+      - POSTGRES_PASSWORD=postgres
+    ports:
+      - "5432:5432"
+    networks:
+      - app-network
+
+  fastapi:
+    build:
+      context: ./backend
+    container_name: fastapi-app
+    depends_on:
+      - postgres
+    ports:
+      - "8080:8080"
+    networks:
+      - app-network
+    environment:
+      - DATABASE_HOST=postgres
+
+  streamlit:
+    build:
+      context: ./frontend
+    container_name: streamlit-app
+    depends_on:
+      - fastapi
+    ports:
+      - "8501:8501"
+    networks:
+      - app-network
+    environment:
+      - BACKEND_HOST=fastapi
+
+networks:
+  app-network:
+    driver: bridge
