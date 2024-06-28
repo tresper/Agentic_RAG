@@ -9,5 +9,7 @@
 * `docker compose start` - start containers
 * `docker compose stop` - stop container without removing them
 
+FUll list of docker compose options: https://docs.docker.com/compose/reference/
+
 ### Application UI URL
 http://localhost:8501
