@@ -59,10 +59,10 @@ async def get_response(payload_req: Request):
 
 @app.get("/reset_chat")
 async def reset_chat():
-    logger.info("Resetting chat bot...")
+    logger.info("Resetting RAG agent...")
     app.state.agent.reset()
-    logger.info("Chat bot reset.")
-    return JSONResponse(content={"detail": "chat engine reset"})
+    logger.info("RAG agent reset")
+    return JSONResponse(content={"message": "Chat agent reset"})
 
 
 @app.get("/delete_index")

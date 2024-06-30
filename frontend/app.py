@@ -29,6 +29,13 @@ def delete_index():
         st.success(resp.json()['message'])
 
 
+def reset_chat():
+    resp = req.get(f"{st.session_state['backend_host']}/reset_chat/")
+    st.session_state.messages = []
+    with spinner_container:
+        st.success(resp.json()['message'])
+
+
 sidebar_container = st.sidebar
 
 # File uploader in the sidebar on the left
@@ -74,10 +81,17 @@ with sidebar_container:
 
     spinner_container = st.container()
 
-    st.button("Delete index", use_container_width=True, on_click=delete_index)
+    st.button("Reset chat agent",
+              use_container_width=True,
+              on_click=reset_chat,
+              disabled=st.session_state.get("files_processed") is None)
+    st.button("Delete index",
+              use_container_width=True,
+              on_click=delete_index,
+              disabled=st.session_state.get("files_processed") is None)
 
 if st.session_state.get('files_processed') is None:
-    st.header("Upload the files you would like to chat with!")
+    st.header("Upload the files you would like to chat with")
 else:
     st.title("Welcome to Ajua ChatBot")
 
