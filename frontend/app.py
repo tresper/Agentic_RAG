@@ -12,7 +12,7 @@ load_dotenv()
 if st.session_state.get("backend_host") is None:
     print(os.getenv("BACKEND_HOST"))
     backend_host = os.getenv("BACKEND_HOST", "127.0.0.1")
-    st.session_state["backend_host"] = f"http://{backend_host}:8080"
+    st.session_state["backend_host"] = f"http://{backend_host}:8081"
 
 
 # Streamed response emulator
