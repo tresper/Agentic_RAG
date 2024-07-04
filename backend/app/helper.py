@@ -98,7 +98,8 @@ def create_summary_tool(name: str, summary_index: SummaryIndex):
 
 async def process_files(files, uploaded_dir):
     logger.info("Initializing models...")
-    llm = OpenAI(model="gpt-3.5-turbo", temperature=0)
+    # llm = OpenAI(model="gpt-3.5-turbo", temperature=0)
+    llm = OpenAI(model="gpt-4", temperature=0)
     embed_model = OpenAIEmbedding(model="text-embedding-3-large")
     Settings.llm = llm
     Settings.embed_model = embed_model
