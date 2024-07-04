@@ -31,7 +31,9 @@
 
 **STEP 3 Build and run the back-end module in Docker**
 # (run in the root dir)
-$ docker build -t agentic_rag_app .
-$ docker run -p 8081:8080 ragapi-app`
+# First time, Create Image in Docker
+    $ docker build -t agentic_rag_app .
+# Run container
+    $ docker run -p 8081:8080 --name agentic_demo_app agentic_rag_app 
 
 
