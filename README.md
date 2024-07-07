@@ -1,4 +1,5 @@
-### Steps to run
+# Follow directions in backend README and frontend README
+*Notes*
 
 * `docker compose up` - build images (if not built yet), create containers and start all services  
 * `docker compose up -d` - the same in a background process  

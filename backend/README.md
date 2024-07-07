@@ -1,10 +1,11 @@
-# MADS Capstone back-end module with REST API.
+# backend module with REST API.
 
 **NOTE:**  
+    Python 3.11.9 okay (Pydandic error with 3.12)
     $ pip install -r requirements.txt` to install dependencies  
 
 **STEP 1 Run Postgres in Docker**
-# First time, Create and Run Postgres in Docker
+# First time, Create Container to run Postgres in Docker
     $ docker run -e POSTGRES_PASSWORD=postgres -p 5433:5432 --name agentic_demo_pg pgvector/pgvector:pg16
 # If Container is already established
     $ docker start agentic_demo_pg
@@ -33,7 +34,9 @@
 # (run in the root dir)
 # First time, Create Image in Docker
     $ docker build -t agentic_rag_app .
-# Run container
+# First time, Create Container to run in Docker
     $ docker run -p 8081:8080 --name agentic_demo_app agentic_rag_app 
+# If Container is already established
+    $ docker start agentic_demo_app
 
 
